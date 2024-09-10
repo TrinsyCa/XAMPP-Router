@@ -1,5 +1,5 @@
 <?php
-	$AppName = "trizola"; // Folder Name of the App
-	$Directory = "p/"; // Folder Directory
+	$AppName = "app-1"; // Folder Name of the App
+	$Directory = "projects/web/"; // Folder Directory
 
 	include_once("route-function.php");
